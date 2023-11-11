@@ -1,1 +1,2 @@
-# kivy_app_api
+# Tkinter Infakt API Client
+This project is a Python application built with Tkinter, a GUI toolkit, to interact with the Infakt API. The app provides a user-friendly interface for accessing and downloading clients' data from the Infakt API. Users can enter the API URL, initiate the data download, and save the results as a CSV file. The application streamlines the process of retrieving essential client information, enhancing efficiency and ease of use for individuals working with the Infakt platform.
