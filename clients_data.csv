@@ -1,0 +1,2 @@
+id,company_name,street,street_number,flat_number,city,country,postal_code,nip,phone_number,web_site,email,note,receiver,mailing_company_name,mailing_street,mailing_city,mailing_postal_code,days_to_payment,payment_method,invoice_note,same_forward_address,first_name,last_name,business_activity_kind
+23272914,ACORA LIMITED,"Acora House, Albert Drive, Burgess Hill, West Sussex, RH15 9TN",,,Burgess Hill,GB,,,,,,,,,,,,,,,True,,,other_business
