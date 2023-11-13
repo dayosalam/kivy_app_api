@@ -1,0 +1,10 @@
+id,company_name,street,street_number,flat_number,city,country,postal_code,nip,phone_number,web_site,email,note,receiver,mailing_company_name,mailing_street,mailing_city,mailing_postal_code,days_to_payment,payment_method,invoice_note,same_forward_address,first_name,last_name,business_activity_kind
+23272914,ACORA LIMITED,"Acora House, Albert Drive, Burgess Hill, West Sussex, RH15 9TN",,,Burgess Hill,GB,,,,,,,,,,,,,,,True,,,other_business
+25478071,BM Analysts,,,,uk,GB,,,,,,,,,,,,,,,True,,,other_business
+25478292,FTQ360,"1997 Annapolis Exchange Suite 300, Annapolis, MD 21401,",,,"Annapolis,",US,,,,,,,,,,,,,,,True,,,other_business
+23272665,Podium Consulting LLC,"6532 Western Trails Dr. Springdale, AR 72762",,,Springdale,US,,,,,,,,,,,,,,,True,,,other_business
+23271523,"Relode, LLC","120 Brentwood Commons Way, Suite 530, Brentwood, TN 37027",,,Brentwood,US,,,,,,,,,,,,,,,True,,,other_business
+23272971,ResiBuilt,,,,Resibuilt,US,,,,,,,,,,,,,,,True,,,other_business
+22636947,Test,,,,,US,,,,,emil@katieandemil.com,,,,,,,,,,True,,,other_business
+23272782,The VX (Canada) Ltd,"70 Keewatin Ave, Toronto, ON M4P 1Z8",,,Toronto,CA,,,,,,,,,,,,,,,True,,,other_business
+26056596,Vision Spring,,,,Nowy Jork,US,,,,,,,,,,,,,,,True,,,other_business

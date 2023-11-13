@@ -102,7 +102,7 @@ class InfaktAPIClient:
     'last_name': last_name,
     'business_activity_kind': business_activity_kind
 }
-            return data
+        return data
 
     def create_dataframe(self, data):
         df = pd.DataFrame(data)
